@@ -1,0 +1,19 @@
+h1{
+    background-color: red;
+    border-radius: 20%;
+    text-align: center;
+    font-style: italic;
+}
+img{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 20px;
+    border-style:solid;
+    border-color: white;
+    border-width: 5px;
+
+}
+
